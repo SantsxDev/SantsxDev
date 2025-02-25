@@ -1,6 +1,6 @@
 -  Olá,eu sou o SantosxDev 
 -
-- 🔭 atualmente trabalho como assistente administrativo 
+- 🔭 atualmente trabalho como Desenvolvedor Júnior 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
